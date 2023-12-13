@@ -1,4 +1,4 @@
-Word-count
+## Word-count
 ## AIM:
 To write a python program for getting the word count from a text.
 
@@ -34,7 +34,3 @@ program()
 ## RESULT:
 Thus the program is written to find the word count from a text.
 
-
-
-## RESULT:
-Thus the program is written to find the word count from a text.
